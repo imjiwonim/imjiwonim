@@ -1,5 +1,5 @@
 - 👋 Hi, @imjiwonim
-- 👀 I’m interested in fashion, code
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python, sql
 - 💞️ I’m looking to collaborate on unique and fun brands or designers
 - 📫 How to reach me ...
