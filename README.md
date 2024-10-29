@@ -1,8 +1,8 @@
 - 👋 Hi, @imjiwonim
 - 👀 I’m interested in data analytics.
 - 🐉 I'm fluent in Chinese and Korean, also have an intermediate English level.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on unique and fun brands or designers
+- 🌱 I’m currently learning python, but have an advanced SQL level.
+- 💞️ I’m looking to collaborate on unique and fun brands or designers!
 - 📫 If you're interested to me, please contact >> ljhwgh@gmail.com
 
 <!---
